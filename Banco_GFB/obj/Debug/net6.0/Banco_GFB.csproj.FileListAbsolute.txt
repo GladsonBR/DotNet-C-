@@ -1,0 +1,15 @@
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/bin/Debug/net6.0/Banco_GFB
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/bin/Debug/net6.0/Banco_GFB.deps.json
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/bin/Debug/net6.0/Banco_GFB.runtimeconfig.json
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/bin/Debug/net6.0/Banco_GFB.dll
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/bin/Debug/net6.0/Banco_GFB.pdb
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/Banco_GFB.csproj.AssemblyReference.cache
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/Banco_GFB.GeneratedMSBuildEditorConfig.editorconfig
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/Banco_GFB.AssemblyInfoInputs.cache
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/Banco_GFB.AssemblyInfo.cs
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/Banco_GFB.csproj.CoreCompileInputs.cache
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/Banco_GFB.dll
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/refint/Banco_GFB.dll
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/Banco_GFB.pdb
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/Banco_GFB.genruntimeconfig.cache
+/home/gladson/Projetos FullStac/DotNet C#/Banco_GFB/obj/Debug/net6.0/ref/Banco_GFB.dll
