@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Banco_GFB
 {
-    public class Conta
+    public class Conta:Transacoes
     {
         private string nome{get; set;}
         private long numeroConta{get; set;}
